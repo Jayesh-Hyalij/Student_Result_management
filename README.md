@@ -55,3 +55,6 @@ To get started with the Student Result Management system, follow these steps:
 
 ## Contributing
 Contributions to the Student Result Management project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
+## License
+This project is licensed under the MIT License.
