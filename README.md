@@ -46,12 +46,12 @@ To get started with the Student Result Management system, follow these steps:
  Once the project is up and running, you can access the system through the graphical user interface. Here's how to use the different functionalities:
 
  ## Staff Panel
- -**Log in with the provided username and password.
- -**Use the options available in the staff panel to manage students and results.
+ - **Log in with the provided username and password.
+ - **Use the options available in the staff panel to manage students and results.
  
 ## Student Panel
--**Log in with the student's roll number.
--**Enter the roll number to view student information and results.
+- **Log in with the student's roll number.
+- **Enter the roll number to view student information and results.
 
 ## Contributing
 Contributions to the Student Result Management project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or create a pull request.
