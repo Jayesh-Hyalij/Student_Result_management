@@ -9,6 +9,7 @@ Welcome to the Student Result Management project! This project aims to provide a
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Project Screenshots](#project_Screenshot)
 
 ## Features
 
@@ -58,3 +59,34 @@ Contributions to the Student Result Management project are welcome! If you find 
 
 ## License
 This project is licensed under the MIT License.
+
+## Screenshots
+
+### Staff Panel
+
+![Home Page](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/homePage.png)
+*Figure 1: Home Page*
+
+![Staff Login]([https://example.com/staff_login.png](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/staffLoginPage.png))
+*Figure 1: Staff Login Page*
+
+![Add New Student](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/addNewStudent.png)
+*Figure 2: Add New Student Form*
+
+![Add Result](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/addResultPage.png)
+*Figure 2: Add Result*
+
+![Registered Students](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/registeredStudentsPage.png)
+*Figure 2: Overview of Registered Students*
+
+![Overview of All Students Result](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/allStudentsResultPage.png)
+*Figure 2: Overview of All Students Result*
+
+### Student Panel
+
+![Student Login](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/studentAccessPage.png)
+*Figure 3: Student Login Page*
+
+![Search Result](https://github.com/Jayesh-Hyalij/Student_Result_management/blob/master/src/student_result_management/ss/studentResult.png)
+*Figure 4: Search Result Page*
+
